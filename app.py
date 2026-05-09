@@ -9,7 +9,7 @@ from transformers import (
 )
 
 # MODEL
-MODEL_NAME = "SanjuTuni/bengali-sentiment-xlmr"
+MODEL_NAME = "SanjuTuni/bengali_sentiment_distilbert"
 
 print("Loading tokenizer...")
 
